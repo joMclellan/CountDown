@@ -1,0 +1,8 @@
+﻿<Window x:Class="CountDown.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="420" Width="663" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock x:Name="txtBlkCountDown" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="100" Foreground="purple"/>
+    </Grid>
+</Window>
