@@ -1,0 +1,1 @@
+Short script I made during on summer to count down until the end of my contract. 
